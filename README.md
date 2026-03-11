@@ -326,10 +326,3 @@ src/
 O desenvolvimento foi incremental: começar pelo domínio e persistência,
 em seguida adicionar a lógica de cálculo e expor via REST, e por fim testar e
 documentar.
-
----
-
-#### License
-
-[MIT](LICENSE) (ou outra licença adequada).
-EOF
